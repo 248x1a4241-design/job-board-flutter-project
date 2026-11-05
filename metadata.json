@@ -1,0 +1,6 @@
+{
+  "name": "WorkBridge - Professional Job Portal",
+  "description": "A modern, comprehensive job portal connecting job seekers, recruiters, and administrators with role-based dashboards, real-time application tracking, resume management, search & filters, and messaging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
